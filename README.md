@@ -14,3 +14,6 @@
 
 이 코드를 기반으로 한 라이브러리:
 [`usestore-ts`](https://bit.ly/3zjtDTR)
+
+
+https://drive.google.com/file/d/17aftEUPgtwYq_Y1gxq6shZU79zh9cB1e/view
