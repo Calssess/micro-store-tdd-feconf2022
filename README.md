@@ -1,3 +1,7 @@
+
+https://drive.google.com/file/d/17aftEUPgtwYq_Y1gxq6shZU79zh9cB1e/view
+
+
 # `feConf2022 상태관리, 이 전쟁을 끝내러왔다` 라이브코딩 예제
 
 프로젝트 세팅 참고:
@@ -16,4 +20,3 @@
 [`usestore-ts`](https://bit.ly/3zjtDTR)
 
 
-https://drive.google.com/file/d/17aftEUPgtwYq_Y1gxq6shZU79zh9cB1e/view
